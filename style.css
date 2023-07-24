@@ -21,7 +21,13 @@ h1{
 h3{
     color:darkgreen;
     font-size: 18px;
-    margin:5px;
+    margin:5px 0px;
+}
+
+.header{
+    text-align: center;
+    margin: 15px;
+    text-decoration: none;
 }
 
 .recipe-card{
@@ -40,10 +46,10 @@ h3{
 
 .recipe-links{
     text-align: center;
+    margin:25px;
 }
 
 .recipe-links a{
-    text-decoration: none;
     line-height: 1.5px;
     font-size: 16px;
     margin-right: 10px;
